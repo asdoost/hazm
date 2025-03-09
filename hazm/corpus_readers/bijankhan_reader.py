@@ -48,7 +48,7 @@ default_pos_map = {
     "NN": "NN",
     "NP": "NP",
     "OH": "OH",
-    "OHH": "OHH",
+    "OHH": "N",
     "P": "PREP",
     "PP": "PP",
     "PRO": "PR",
