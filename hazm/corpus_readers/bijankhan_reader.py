@@ -41,7 +41,7 @@ default_pos_map = {
     "IF": "IF",
     "INT": "INT",
     "MORP": "MORP",
-    "MQUA": "MQUA",
+    "MQUA": "ADV",
     "MS": "MS",
     "N_PL": "N",
     "N_SING": "N",
