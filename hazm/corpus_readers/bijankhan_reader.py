@@ -37,7 +37,7 @@ default_pos_map = {
     "CON": "CONJ",
     "DEFAULT": "DEFAULT",
     "DELM": "PUNC",
-    "DET": "PREP",
+    "DET": "DET",
     "IF": "IF",
     "INT": "INT",
     "MORP": "MORP",
