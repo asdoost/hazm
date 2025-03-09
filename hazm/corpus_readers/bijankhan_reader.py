@@ -53,7 +53,7 @@ default_pos_map = {
     "PP": "PP",
     "PRO": "PR",
     "PS": "PS",
-    "QUA": "QUA",
+    "QUA": "DET",
     "SPEC": "SPEC",
     "V_AUX": "V",
     "V_IMP": "V",
