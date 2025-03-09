@@ -23,7 +23,7 @@ from .peykare_reader import join_verb_parts
 default_pos_map = {
     "ADJ": "ADJ",
     "ADJ_CMPR": "ADJ",
-    "ADJ_INO": "ADJ",
+    "ADJ_INO": "V",
     "ADJ_ORD": "ADJ",
     "ADJ_SIM": "ADJ",
     "ADJ_SUP": "ADJ",
